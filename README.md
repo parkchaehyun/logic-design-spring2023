@@ -13,17 +13,17 @@ These are my solutions to the assignments for **Logic Design (M1522.000700)**, t
 - **Half-Adder Implementation on Breadboard**
 
 ### **Lab 2 (April 13, 2023)**
-1. **2-bit Comparator (LT, EQ, GT)**  
+- **2-bit Comparator (LT, EQ, GT)**  
    - Implement and simulate using Xilinx ISE (Schematic).
-2. **2-bit Comparator (GT)**
+- **2-bit Comparator (GT)**
    - Implement on a physical board using DIP switches and basic logic gates.
 
 ### **Lab 3 (April 20, 2023)**
-1. **74x139 (2-to-4 Decoder)**  
+- **74x139 (2-to-4 Decoder)**  
    - Implement using Structural, Data-flow, and Behavioral descriptions.
-2. **3-to-8 Decoder**  
+- **3-to-8 Decoder**  
    - Implement using 2-to-4 Decoders.
-3. **4-to-1 Multiplexer (MUX)**  
+- **4-to-1 Multiplexer (MUX)**  
    - Implement using Structural, Data-flow, and Behavioral descriptions.
 
 ### **Lab 4 (April 27, 2023)**
@@ -56,7 +56,7 @@ These are my solutions to the assignments for **Logic Design (M1522.000700)**, t
 - **Implementation on Logic Design Board**  
    - Program the Two-Digit Counter on the Logic Design Board, using a 50MHz oscillator, tactile switch for reset, and two 7-segment displays.
 
-## Final Project: Microprocessor Design
+## Final Project: Microprocessor Design (June 2023)
 - **Overview**  
    - Implemented an 8-bit microprocessor in Verilog and programmed it on FPGA.
    - Components: ALU, control unit, system memory, registers, and instruction memory.
