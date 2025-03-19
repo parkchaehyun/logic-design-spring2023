@@ -1,0 +1,55 @@
+
+
+NET "segA[0]" LOC = P3;
+NET "segA[1]" LOC = P4;
+NET "segA[2]" LOC = P5;
+NET "segA[4]" LOC = P7;
+NET "segA[3]" LOC = P6;
+NET "segA[5]" LOC = P8;
+NET "segA[6]" LOC = P10;
+NET "segB[0]" LOC = P11;
+NET "segB[1]" LOC = P12;
+NET "segB[2]" LOC = P13;
+NET "segB[3]" LOC = P15;
+NET "segB[4]" LOC = P16;
+NET "segB[5]" LOC = P18;
+NET "segB[6]" LOC = P19;
+NET "rst" LOC = P47;
+NET "clk" LOC = P57;
+
+
+NET "segC[1]" LOC = P21;
+NET "segC[0]" LOC = P20;
+NET "segC[2]" LOC = P24;
+NET "segC[3]" LOC = P25;
+NET "segC[4]" LOC = P27;
+NET "segC[6]" LOC = P29;
+NET "segC[5]" LOC = P28;
+NET "segD[0]" LOC = P55;
+NET "segD[1]" LOC = P58;
+NET "segD[2]" LOC = P59;
+NET "segD[3]" LOC = P60;
+NET "segD[4]" LOC = P62;
+NET "segD[5]" LOC = P63;
+
+
+NET "segD[6]" LOC = P64;
+
+# PlanAhead Generated physical constraints 
+
+NET "inst[7]" LOC = P130;
+NET "inst[6]" LOC = P129;
+NET "inst[5]" LOC = P127;
+NET "inst[4]" LOC = P126;
+NET "inst[3]" LOC = P125;
+NET "inst[2]" LOC = P124;
+NET "inst[0]" LOC = P120;
+NET "inst[1]" LOC = P121;
+NET "read_address[7]" LOC = P105;
+NET "read_address[6]" LOC = P104;
+NET "read_address[5]" LOC = P103;
+NET "read_address[4]" LOC = P102;
+NET "read_address[3]" LOC = P101;
+NET "read_address[2]" LOC = P99;
+NET "read_address[1]" LOC = P98;
+NET "read_address[0]" LOC = P96;
